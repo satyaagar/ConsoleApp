@@ -10,7 +10,8 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-           Console.WriteLine("Sample application for Jenkin...");
+           Console.WriteLine("Sample application for Jenkin..."); 
+          Console.WriteLine("Sample application for Jenkin...");
            Console.ReadLine();
         }
     }
